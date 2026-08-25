@@ -1,0 +1,18 @@
+Timestamp,Location,Vehicle_Count,Average_Speed,Weather,Signal_Timing,Accidents,Congestion_Level,Source_File
+2026-08-01 08:00,Junction_A,120.0,35.0,Sunny,60,0,Medium,junction1.csv
+2026-08-01 08:05,Junction_A,135.0,32.0,Sunny,60,0,High,junction1.csv
+2026-08-01 08:10,Junction_A,150.0,30.0,Rainy,70,1,High,junction1.csv
+2026-08-01 08:15,Junction_A,145.0,31.0,Rainy,70,0,High,junction1.csv
+2026-08-01 08:20,Junction_A,110.0,40.0,Sunny,55,0,Medium,junction1.csv
+2026-08-01 08:25,Junction_A,95.0,45.0,Sunny,50,0,Low,junction1.csv
+2026-08-01 08:00,Junction_B,100.0,42.0,Sunny,55,0,Low,junction2.csv
+2026-08-01 08:05,Junction_B,125.0,38.0,Cloudy,60,0,Medium,junction2.csv
+2026-08-01 08:10,Junction_B,120.0,35.0,Rainy,65,0,Medium,junction2.csv
+2026-08-01 08:15,Junction_B,140.0,38.0,Rainy,65,0,High,junction2.csv
+2026-08-01 08:20,Junction_B,130.0,33.0,Sunny,60,0,High,junction2.csv
+2026-08-01 08:25,Junction_B,115.0,37.0,Sunny,55,0,Medium,junction2.csv
+2026-08-01 08:00,Junction_C,80.0,50.0,Sunny,45,0,Low,junction3.csv
+2026-08-01 08:05,Junction_C,90.0,48.0,Sunny,50,0,Low,junction3.csv
+2026-08-01 08:10,Junction_C,105.0,44.0,Cloudy,55,0,Medium,junction3.csv
+2026-08-01 08:15,Junction_C,115.0,41.0,Cloudy,60,0,Medium,junction3.csv
+2026-08-01 08:20,Junction_C,125.0,38.0,Rainy,65,1,High,junction3.csv

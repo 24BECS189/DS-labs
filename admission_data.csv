@@ -1,0 +1,17 @@
+Application_No,Name,Age,Entrance_Score,Board_Percentage,Branch,Category,Family_Income,Admission_Status
+APP001,Ananya,18,85,91,CSE,General,600000,Admitted
+APP002,Rahul,19,78,85,ECE,OBC,450000,Admitted
+APP003,Priya,18,92,95,CSE,General,800000,Admitted
+APP004,Arjun,20,65,72,ME,SC,300000,Not Admitted
+APP005,Neha,19,88,89,ISE,OBC,500000,Admitted
+APP006,Kiran,18,55,68,Civil,ST,250000,Not Admitted
+APP007,Sneha,19,76,82,ECE,General,550000,Admitted
+APP008,Rohan,21,45,60,ME,OBC,350000,Not Admitted
+APP009,Divya,18,95,96,CSE,General,900000,Admitted
+APP010,Manoj,19,70,75,ISE,SC,400000,Admitted
+APP011,Anu,18,82,88,ECE,OBC,480000,Admitted
+APP012,Vijay,20,50,65,Civil,ST,220000,Not Admitted
+APP013,Meena,19,87,90,CSE,General,700000,Admitted
+APP014,Suresh,18,62,70,ME,OBC,320000,Not Admitted
+APP015,Lakshmi,19,91,93,ISE,General,750000,Admitted
+APP001,Ananya,18,85,91,CSE,General,600000,Admitted

@@ -1,0 +1,7 @@
+Timestamp,Location,Vehicle_Count,Average_Speed,Weather,Signal_Timing,Accidents,Congestion_Level
+2026-08-01 08:00,Junction_A,120,35,Sunny,60,0,Medium
+2026-08-01 08:05,Junction_A,135,32,Sunny,60,0,High
+2026-08-01 08:10,Junction_A,150,30,Rainy,70,1,High
+2026-08-01 08:15,Junction_A,145,31,Rainy,70,0,High
+2026-08-01 08:20,Junction_A,110,40,Sunny,55,0,Medium
+2026-08-01 08:25,Junction_A,95,45,Sunny,50,0,Low
